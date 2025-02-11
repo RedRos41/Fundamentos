@@ -12,20 +12,15 @@ Fundamentos de Infraestrctura
 Integrantes: 
 
 Derek Rodriguez Rodriguez 
-Leidy Yuliana Rivera Quintero 
-
 
 
 Profesor:Maycol Cardenas
 
 
-
-
-
 Armenia Quindío, 2024
 
 
- Calculadora en Ensambrador 
+Calculadora en Ensambrador 
 
 En objectivo es crear una calculadora con las operaciones basicas como :
 Suma, resta, multiplicacion, division.
